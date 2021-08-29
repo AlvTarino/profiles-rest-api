@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0085fd5-fd7d-4ba2-b850-49e77f623a20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/profiles-rest-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/profiles-rest-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630270596532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created Django project">
+      <created>1630273819651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630273819651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,16 +76,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configured Vagrant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configured Vagrant" />
+    <MESSAGE value="Created Django project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Django project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630160666277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="444" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1630160666277" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1630270736333">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1630273846463">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630270736333" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630273846463" />
   </component>
 </project>
